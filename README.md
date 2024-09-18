@@ -17,4 +17,10 @@ My Personal Blog
 ## Bioinformatics
 # Nutrition
 ## General Nutrition
+### MIND
+🍖 No processed meats
+🧀 No cheese or butter
+🍪 No added sugars or sweeteners
+🍟 No fried foods
+🍷 No alcohol
 ## Sports Nutrition
