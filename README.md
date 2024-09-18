@@ -17,6 +17,6 @@ My Personal Blog
 ## Bioinformatics
 # Nutrition
 ## General Nutrition
-### [MIND](/MIND.md)
+### [MIND](./nutrition/MIND.md)
 ## Sports Nutrition
 
