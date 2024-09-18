@@ -18,6 +18,7 @@ My Personal Blog
 # Nutrition
 ## General Nutrition
 ### MIND
+[MIND](/MIND.md)
 🎯 **Goal**: Reduce the risk of dementia and cognitive decline
 
 **What**
