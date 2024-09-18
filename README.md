@@ -14,7 +14,7 @@ My Personal Blog
 #### Ledsreact
 #### Fluvius
 ### Blog posts
-## [Bioinformatics](./engineering/bioinformatics/bioinformatics_hogent.md)
+## [Bioinformatics](./engineering/bioinformatics_hogent.md)
 # Nutrition
 ## General Nutrition
 ### [MIND](./nutrition/MIND.md)
