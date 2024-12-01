@@ -21,6 +21,8 @@ author: Thibauld Braet
 
 navbar-links:
   About Me: "aboutme"
+  Rosalind: "rosalind"
+  Rosalind hard: "https://thbraet.github.io/rosalind/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
