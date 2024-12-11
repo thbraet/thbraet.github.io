@@ -298,6 +298,7 @@ exclude:
 
 include:
   - rosalind/
+  - "rosalind/all_problems"
 
 
 
