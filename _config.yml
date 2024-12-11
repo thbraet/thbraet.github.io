@@ -21,7 +21,8 @@ author: Thibauld Braet
 navbar-links:
   About Me: "aboutme"
   Rosalind: "rosalind/all_problems"
-  Rosalind Test: "rosalind/test_rosalind"
+  Rosalind Test: "test_rosalind"
+  Rosalind Test 2: "rosalind/test_rosalind"
   Rosalind hard: "https://thbraet.github.io/rosalind/"
   Rosalind submodule: "rosalind/README"
   Resources:
