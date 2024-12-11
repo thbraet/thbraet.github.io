@@ -297,7 +297,8 @@ exclude:
   - docs/
 
 include:
-  - rosalind
+  - rosalind/
+
 
 
 plugins:
