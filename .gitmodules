@@ -1,3 +1,0 @@
-[submodule "rosalind"]
-	path = rosalind
-	url = https://github.com/thbraet/rosalind.git
