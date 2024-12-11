@@ -22,7 +22,7 @@ navbar-links:
   About Me: "aboutme"
   Rosalind: "rosalind"
   Rosalind hard: "https://thbraet.github.io/rosalind/"
-  Rosalind submodule: "rosalind/README.md"
+  Rosalind submodule: "rosalind/README"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
