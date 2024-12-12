@@ -21,12 +21,7 @@ author: Thibauld Braet
 navbar-links:
   Home: "/"
   About Me: "/aboutme"
-  rosalind_exercises/all_problems: "/rosalind_exercises/all_problems"
-  rsoalind/all_problems: "/rosalind/all_problems"
-  test_rosalind: "/test_rosalind"
-  rosalind/test_rosalind: "/rosalind/test_rosalind"
-  thbraet.github.io/rosalind: "https://thbraet.github.io/rosalind/"
-  rosalind/readme: "/rosalind/README"
+  Rosalind: "rosalind_exercises/README"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -301,9 +296,8 @@ exclude:
   - docs/
 
 include:
-  - rosalind
-  - rosalind/all_problems.md
-
+  - rosalind_exercises
+  
 
 
 plugins:
