@@ -1,0 +1,3 @@
+[submodule "rosalind_exercises"]
+	path = rosalind_exercises
+	url = https://github.com/thbraet/rosalind.git
