@@ -297,6 +297,7 @@ exclude:
 
 include:
   - rosalind_exercises
+  - rosalind_exercises/
   
 
 
