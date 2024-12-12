@@ -1,6 +1,0 @@
-[submodule "rosalind"]
-	path = rosalind
-	url = https://github.com/thbraet/rosalind.git
-[submodule "rosalind2"]
-	path = rosalind2
-	url = https://github.com/thbraet/rosalind.git
