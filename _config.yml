@@ -21,6 +21,7 @@ author: Thibauld Braet
 navbar-links:
   Home: "/"
   About Me: "/aboutme"
+  rosalind2/all_problems: "/rosalind2/all_problems"
   rsoalind/all_problems: "/rosalind/all_problems"
   test_rosalind: "/test_rosalind"
   rosalind/test_rosalind: "/rosalind/test_rosalind"
