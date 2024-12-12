@@ -21,11 +21,11 @@ author: Thibauld Braet
 navbar-links:
   Home: "/"
   About Me: "/aboutme"
-  Rosalind: "/rosalind/all_problems"
-  Rosalind Test: "/test_rosalind"
-  Rosalind Test 2: "/rosalind/test_rosalind"
-  Rosalind hard: "https://thbraet.github.io/rosalind/"
-  Rosalind submodule: "/rosalind/README"
+  rsoalind/all_problems: "/rosalind/all_problems"
+  test_rosalind: "/test_rosalind"
+  rosalind/test_rosalind: "/rosalind/test_rosalind"
+  thbraet.github.io/rosalind: "https://thbraet.github.io/rosalind/"
+  rosalind/readme: "/rosalind/README"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
