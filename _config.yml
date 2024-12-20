@@ -23,7 +23,7 @@ navbar-links:
   "About Me": "/aboutme"
   Bioinformatics:
     - Rosalind: "bioinformatics/rosalind/README"
-    - Level 1: "bioinformatics/rosalind/Bioinformatics Stronghold/Level 1/Counting DNA Nucleotides/Counting DNA Nucleotides.md"
+    - Level 1: "bioinformatics/rosalind/Bioinformatics Stronghold/Level 1/Counting DNA Nucleotides/Counting DNA Nucleotides"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -300,6 +300,7 @@ exclude:
 
 include:
   - bioinformatics/
+  - bioinformatics/rosalind/
   - rosalind_exercises
   - rosalind_exercises/
   
