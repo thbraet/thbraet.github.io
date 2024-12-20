@@ -1,0 +1,3 @@
+[submodule "bioinformatics/rosalind"]
+	path = bioinformatics/rosalind
+	url = https://github.com/thbraet/rosalind.git
