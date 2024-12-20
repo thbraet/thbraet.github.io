@@ -20,14 +20,15 @@ author: Thibauld Braet
 
 navbar-links:
   Home: "/"
-  About Me: "/aboutme"
-  Bioinformatics: "/bioinformatics"
-    - Rosalind: "bioinformatics/rosalind/README"
-  Level 1: "bioinformatics/rosalind/Bioinformatics Stronghold/Level 1/Counting DNA Nucleotides/Counting DNA Nucleotides.md"
+  "About Me": "/aboutme"
+  Bioinformatics:
+    Rosalind: "bioinformatics/rosalind/README"
+    Level 1: "bioinformatics/rosalind/Bioinformatics Stronghold/Level 1/Counting DNA Nucleotides/Counting DNA Nucleotides.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  "Author's home": "https://deanattali.com"
+
   
 ################
 # --- Logo --- #
