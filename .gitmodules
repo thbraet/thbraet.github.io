@@ -1,3 +1,0 @@
-[submodule "rosalind_exercises"]
-	path = bioinformatics/rosalind_exercises
-	url = https://github.com/thbraet/rosalind.git
