@@ -4,7 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Thibauld Braet. I have the following qualities:
+My name is Thibauld Braet.
+Born and raised in Bruges, slowly moving towards the East of Belgium. Currently living in Diest after educational stops in Ghent and Brussels and a professional stop in Leuven. I have the following qualities:
 
 - I can run long distances
 - I can eat a lot of food
