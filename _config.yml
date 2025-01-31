@@ -24,6 +24,8 @@ navbar-links:
   Bioinformatics:
     - Rosalind: "bioinformatics/rosalind/README"
     - Level 1: "bioinformatics/rosalind/Bioinformatics Stronghold/Level 1/Counting DNA Nucleotides/Counting DNA Nucleotides"
+  Sports: "/sports"
+  About Me: "/aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
