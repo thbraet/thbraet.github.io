@@ -1,0 +1,142 @@
+contact:
+  firstname: Thibauld
+  lastname: Braet
+  jobtitle: Analytics Engineer
+  email_address: thibauld@dataroots.io
+  tagline: Combining engineering with people skills to deliver technology that answers business needs. - 5 years of experience in data - Strong with data and people - Passion for data driven storytelling - Love for endurance sports - Masters in Engineering and Business - Fascinated by leadership and team dynamics. 
+  socials:
+    github: https://github.com/thbraet
+    linkedin: https://www.linkedin.com/in/thibauldbraet/
+    twitter:
+education:
+  - institution: Howest
+    begin_year: 2024
+    end_year: 2026
+    topic: Advanced Bachelor in Bioinformatics
+  - institution: Vlerick Business School
+    begin_year: 2019
+    end_year: 2020
+    topic: MSc International Management & Strategy
+  - institution: Ghent University + EPFL
+    begin_year: 2017
+    end_year: 2019
+    topic: MSc Computer Science Engineering 
+  - institution: Ghent University
+    begin_year: 2014
+    end_year: 2017
+    topic: BSc Computer Science Engineering
+employment_history:
+  - company: Dataroots
+    begin: 2020
+    end: current
+    title: Analytics Engineer
+    topic: As an analytics engineer, I’m the bridge between the technical team and the business side. I combine my engineering and business skills to identify and prioritize business needs, challenge but also contribute to technical development, and manage project coordination to ensure the needed solution is delivered within the promised timeline. I am therefore a strong believer in frequent communication and early feedback from all stakeholders to adjust the sails when needed.
+    tech_stack: Python, SQL, Databricks, dbt, PowerBI, Azure, AWS
+    key_skills: Data Visualisation, Machine Learning, Project Management
+  - company: My_SmartBottle
+    begin: 2018
+    end: 2018
+    title: Tech Lead
+    topic: Building a smart drinking bottle, I managed the full ETL pipeline, transforming raw sensor data into end-user-facing analytics. This required coordinating with hardware manufacturers and customers to understand both technical and functional requirements and limitations.
+    tech_stack: C++, SQL, Grafana
+    key_skills: Database Management, Stakeholder Management, UX
+  - company: Barco
+    begin: 2017
+    end: 2017
+    title: Intern Web Developer
+    topic: I worked as a web developer on the early prototype stages of the Demetra dermatoscope. I contributed to the functional analysis and implementation of a website where dermatologists could enter data about lesions on which a Machine Learning model was trained, automatically detecting malignant ones.
+    tech_stack: Angular, HTML, CSS, Typescript, Bitbucket
+    key_skills: Web Development, UX
+highlights:
+  - company: Fluvius (2023 - 2025)
+    description: For the Flemish grid operator, I assisted in their migration to the cloud. Specifically for the department of grid exploitation, I helped move data from their operational applications to Databricks, where everything was modeled in a three-layer medallion architecture, including star and business data vault modeling. Power BI was then directed towards the gold layer to build operational reports.
+    tech_stack: Databricks, PySpark, SQL, PowerBI, Enterprise Architect, Azure, Azure DevOps, JIRA
+    key_skills: Data Visualisation, Data Vault Modelling, Kimball Modelling, Data Quality, Project Management
+  - company: Fluvius (2023- 2024)
+    description: At the department of energy flexibility, I built a prediction model to estimate the opportunity cost of renewable energy distributions when Fluvius asked them to shut down their operations to prevent grid overload. Combining third-party data with internal data allowed us to reduce paid fees by more than 70%.
+    tech_stack: Databricks, PySpark, scikit-learn, Plotly
+    key_skills: Data Visualisation, Machine Learning
+  - company: LedsReact (2022 - 2023)
+    description: This Sports Tech company measures an athlete's velocity and acceleration using radio wave reflections. I'm end-to-end involved in this project by building their AI roadmap and discussing user requirements with customer success, implementing Kalman filters to reduce noise together with firmware and hardware partners, executing data quality checks across the full ETL pipeline using Pandera, and communicating the end results through intuitive visualizations to non-technical users (e.g., sports coaches). Communication is at least as important as accurate and qualitative results. Showing incorrect data even once can lead to a long period of lost trust in your product.
+    tech_stack: AWS, Sagemaker, Kalman Filter, Pydantic, Pandera, Python, Plotly
+    key_skills: Machine Learning, Stakeholder Management, Product Validation
+  - company: Libeert (2021-2022)
+    description: For this chocolate manufacturer, we set up a data platform for them to analyze live data from their production line. We implemented ETL and DWH tools to combine IoT data (streaming) with SAP (batch) and displayed it in a Power BI dashboard. Instead of manually updating SAP inventory, they could now rely on a live and accurate view of their current stock.
+    tech_stack: PowerBI, SQL
+    key_skills: Data visualisation, Project Management
+  - company: AB Inbev (2021)
+    description: A manufacturing client wanted to optimize their transportation costs. We built a model forecasting the required number of trucks for a specific time and location. I bridged between our technical team and the customer by understanding the business context, validating data assumptions, challenging model outcomes, and ensuring user adoption of the model.
+    tech_stack: PowerBI, Prophet, Python
+    key_skills: Data visualisation, Machine Learning, Stakeholder Management
+  - company: AB Inbev (2020-2021)
+    description: For a large beverage manufacturer, we built a dashboard allowing them to analyze the CO2 emissions of their logistics division. Important for this non-tech-savvy client were intuitive visualizations enabling easy decision-making. As their needs tended to change during the project and we frequently needed to validate the given data, frequent and early feedback was crucial for timely delivery of a trustworthy dashboard. 
+    tech_stack: Streamlit, Python
+    key_skills: Data Visualisation, Stakeholder Management
+  - company: Vlaams Energie Bedrijf (2020-2021)
+    description: Together with our data scientists, we worked on multiple PoCs in parallel, ranging from datasets providing insights into energy efficiency to predicting the energy consumption of public buildings reported in the climate plan. I mainly covered business-oriented roles, including discussing functional requirements, having technical discussions with the team, and translating their technical results into business value, presenting these to the stakeholders.
+    tech_stack: Sagemaker, S3, Prophet, Python
+    key_skills: Project Management, Data Visualisation
+  - company: Dataroots (2020 - 2025)
+    description: Internally at Dataroots, I've been heavily involved in data visualization initiatives. I helped set up an operational dashboard in Metabase, and every launch of the academy, I teach a course on data visualization to new joiners. This course has also been taught at several external workshops.
+    tech_stack: PowerBI, Matplotlib, Plotly, Metabase, Python
+    key_skills: Data Visualisation, Teaching
+  - company: Dataroots (2020 - 2025)
+    description: I  love to contribute to the dataroots culture by leveraging the power of sports. I love to organize competitions (e.g. Strava Contest or Hercules Trophy) between colleagues or talk them into a race and train together after work. I even combined my passion for sports and data visualisation in an initiative with the Jogclub podcast.
+    key_skills: Leadership
+skills:
+  - CLOUD PLATFORMS
+  - AWS, Azure
+  - BI AND VISUALISATION
+  - Power BI
+  - Metabase
+  - Tableau
+  - Streamlit
+  - Plotly
+  - Data Visualization
+  - Data Storytelling
+  - DATA ENGINEERING AND ANALTYCS
+  - dbt
+  - Databricks
+  - PySpark
+  - Pandas
+  - Pandera
+  - Pydantic
+  - Data Modeling (Kimball & Data Vault)
+  - Data Quality
+  - UML
+  - PROGAMMING LANGUAGES
+  - SQL
+  - Python
+  - Java
+  - C
+  - C++
+  - PROJECT MANAGEMENT
+  - Git
+  - Project Management
+  - CRISP-DM
+  - Jira
+
+languages:
+  - language: Dutch
+    level: Native
+  - language: English
+    level: Professional
+  - language: French
+    level: Conversational
+certifications:
+  - title: dbt Fundamentals
+    badge_image: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73845700
+  - title: Microsoft Azure Data Analyst
+    badge_image: https://images.credly.com/images/3f35db4f-41b9-4125-8b89-b5ccc5beb4b8/image.png
+  - title: Databricks Lakehouse Fundamentals
+    badge_image: https://www.databricks.com/en-website-assets/static/33ec4a7107a86283f2185f56613d4270/ce153/lakehouse-fundamentals.webp
+  - title: Databricks Data Engineer Associate
+    badge_image: https://www.databricks.com/sites/default/files/2024-05/associate-badge-de.png?v=1717145547
+  - title: Google Project Management
+    badge_image: https://images.credly.com/images/771cff46-3573-4d12-bfd8-528745f00957/twitter_thumb_201604_GCC_badge_PGM_1000x1000.png
+  - title: Microsoft Azure AI Fundamentals
+    badge_image: https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png
+  - title: Professional Scrum Master
+    badge_image: https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png
+  - title: Prefect Associate
+    badge_image: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71366438
