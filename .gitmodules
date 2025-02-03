@@ -1,3 +1,6 @@
 [submodule "bioinformatics/rosalind"]
 	path = bioinformatics/rosalind
 	url = https://github.com/thbraet/rosalind.git
+[submodule "sports/strava_description_editor"]
+	path = sports/strava_description_editor
+	url = https://github.com/thbraet/strava_description_editor.git
